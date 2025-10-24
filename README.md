@@ -2,6 +2,8 @@
 
 In this project, we utilized concepts about adversarial search, minimax algorithm, and alpha-beta pruning. 
 
+![Screenshot](https://github.com/UPHSL-CCS-J3A/build-a-minimax-tic-tac-toe-ttetromino/blob/70a09b9392bf7fa42d9aa1915186fa8940d9b4cf/TicTacToe%20Game%20Screenshot.png)
+
 ## Minimax Algorithm Implementation
 
 Adversarial search is a concept on game theory where we create agents with strategic-thinking, enabling them to function in a competitive environment against players. The minimax algorithm is an algorithm that allows the program to select the best possible move against the player.  
